@@ -4,26 +4,26 @@ I'm interested in:
 
   +Gamedev
   {
-    1) Unreal Engine
-    2) Unity
+        1) Unreal Engine
+        2) Unity
   }
   
   +Software
   {
-    ?)c++
-    ?)c#
-    1)Python
+        ?)c++
+        ?)c#
+        1)Python
   }
   
   +Neural networks & Machine learning
   {
-    Python
+        Python
   }
   
   Web
   {
-    1)html
-    1)css
-    Python
-    Java Script
+        1)html
+        1)css
+        Python
+        Java Script
   }
