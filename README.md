@@ -21,6 +21,6 @@ I'm interested in:
     1)html
     1)css
     
-    -Python
-    -Java Script
+    Python
+    Java Script
   }
